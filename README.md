@@ -1,2 +1,2 @@
-# illustratorPrint
-Print more than 999
+# illustrator Print
+Print more than 999 copies in illustrator
